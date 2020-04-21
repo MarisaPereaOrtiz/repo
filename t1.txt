@@ -1,3 +1,5 @@
+New_Feature: this is the branch info
+
 now I am writing in t1.txt
 
 try to save before closing
